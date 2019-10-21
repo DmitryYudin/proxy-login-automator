@@ -1,0 +1,6 @@
+# bash script for sourcing
+readonly local_host=0.0.0.0
+readonly local_port=3128
+readonly remote_host=proxyru.huawei.com
+readonly remote_port=8080
+readonly as_pac_server=false
